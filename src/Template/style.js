@@ -79,7 +79,6 @@ export const Form = styled.form`
   @media(max-width: 700px){
     margin: 0 1rem;
   }
-
   div {
     text-align: center;
     margin-top: 30px;

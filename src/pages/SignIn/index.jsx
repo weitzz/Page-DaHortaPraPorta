@@ -10,7 +10,7 @@ function SignIn({ children }) {
     <TemplateDefault>
       <h1>Login</h1>
       <Input title="CPF" />
-      <Input title="Senha" />
+      <Input title="Senha" type='password' />
       <br />
       <Button type="submit" variant='primary'>Entrar</Button>
       <br />
